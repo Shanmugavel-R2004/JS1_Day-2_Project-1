@@ -1,0 +1,24 @@
+body{
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCkPjrGVcrzK8pQExXoygakynxUcn73qZmQ&s");
+}
+#guessinput{
+    width:200px;
+    height: 10px;
+}
+#msg{
+    color: #1a818b;
+}
+#id1{
+    border: 3px rgb(10, 13, 15) solid;
+    background-image:linear-gradient(#3bcfdb,pink,#ffb740) ;
+    margin-top: 170px; 
+    margin-left: 480px; 
+    text-align: center;
+    height: 280px;
+    width: 430px;  
+    border-radius: 100px 0px 100px 0px;
+}
+#id2{
+    color: wheat;
+}
